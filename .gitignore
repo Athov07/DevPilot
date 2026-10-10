@@ -1,0 +1,15 @@
+# Ignore Next.js dependencies & builds
+**/node_modules/
+**/.next/
+client/node_modules/
+client/.next/
+
+# Ignore Spring Boot builds
+**/target/
+backend/target/
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
